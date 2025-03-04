@@ -12,13 +12,13 @@
 <br>
 <h3 align="center">⚙️ Tools</h3>
 <p align="center">  
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIDEA" > <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="Eclipse" > <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" >
 
 <hr width="100%" >
 
 <h3>📊 My GitHub Stats</h3>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=BrunoLlanes&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoLlanes&show_icons=true&theme=dark&locale=en&layout=compact" alt="BL06-404"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoLlanes&show_icons=true&theme=dark&locale=en&layout=compact" alt="BL06-404"/></p>
 <br><br>
 
 <hr width="100%" >
