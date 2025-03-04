@@ -3,9 +3,8 @@
 <p align="center">
   <a href="[https://github.com/BrunoLlanes]"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+Developer;Minecraft:+Servers/Plugins+Developer;Discord:+Bot+Developer;Python+Developer"></a>
 </p>
-<hr width="100%" >
 
-<h2 align="center">Passionate about programming, currently exploring Python, Minecraft plugin development, and HTML/CSS. /n Always looking to learn something new and improve my skills. 💡💻</h2>
+<h2 align="center">Passionate about programming, currently exploring Python, Minecraft plugin development, and HTML/CSS. <br> Always looking to learn something new and improve my skills. 💡💻</h2>
 
 
 🦄 Un poco sobre mí...
