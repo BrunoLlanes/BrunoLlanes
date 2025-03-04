@@ -1,5 +1,5 @@
 
-<h1 align="center">Good afternoon, I am Bruno Llanes ⌨️💻🖥️🪪</h1>
+<h1 align="center">Good afternoon, I am Bruno Llanes ✌️</h1>
 
 <h3 align="left">Languages:</h3>
 <p align="left">  
