@@ -7,7 +7,7 @@
 <h2 align="center">Passionate about programming, currently exploring Python, Minecraft plugin development, and HTML/CSS. <br> Always looking to learn something new and improve my skills. 💡💻</h2>
 
 
-> A little about me...<br>
+<h3 align="center">🪪 A little about me...</h3> 
 > ✔ Pronombres: Él/Suyo o "El que rompe cosas y luego las arregla" 😆<br>
 > ✔ Estoy desarrollando: Un descargador de YouTube con botón de información y plugins para Minecraft<br>
 > ✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML en FreeCodeCamp<br>
