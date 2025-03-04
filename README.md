@@ -5,6 +5,20 @@
 </p>
 <hr width="100%" >
 
+Un apasionado por la programación, actualmente explorando Python, desarrollo de plugins para Minecraft y HTML/CSS.
+Siempre buscando aprender algo nuevo y mejorar mis habilidades. 🚀
+
+Aprendiendo mientras espero y lucho por mejorar. 💡💻
+
+🦄 Un poco sobre mí...
+✔ Pronombres: Él/Suyo o "El que rompe cosas y luego las arregla" 😆
+✔ Estoy desarrollando: Un descargador de YouTube con botón de información y plugins para Minecraft
+✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML en FreeCodeCamp
+✔ Me gustaría colaborar en: Open Source y proyectos interesantes
+✔ Dato curioso: Cuando el código no funciona, lo miro fijamente hasta que sí 😤
+
+
+<hr width="100%" >
 <h3 align="center">⌨️ Languages</h3>
 <p align="center">   
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
