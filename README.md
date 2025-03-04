@@ -5,8 +5,7 @@
 </p>
 <hr width="100%" >
 
-<h2 align="center">Un apasionado por la programación, actualmente explorando Python, desarrollo de plugins para Minecraft y HTML/CSS.
-Siempre buscando aprender algo nuevo y mejorar mis habilidades. 💡💻</h2>
+<h2 align="center">Passionate about programming, currently exploring Python, Minecraft plugin development, and HTML/CSS. Always looking to learn something new and improve my skills. 💡💻</h2>
 
 
 🦄 Un poco sobre mí...
