@@ -8,11 +8,11 @@
 
 
 > 🦄 Un poco sobre mí...
-> ✔ Pronombres: Él/Suyo o "El que rompe cosas y luego las arregla" 😆
-> ✔ Estoy desarrollando: Un descargador de YouTube con botón de información y plugins para Minecraft
-> ✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML en FreeCodeCamp
-> ✔ Me gustaría colaborar en: Open Source y proyectos interesantes
-> ✔ Dato curioso: Cuando el código no funciona, lo miro fijamente hasta que sí 😤
+> ✔ Pronombres: Él/Suyo o "El que rompe cosas y luego las arregla" 😆<br>
+> ✔ Estoy desarrollando: Un descargador de YouTube con botón de información y plugins para Minecraft<br>
+> ✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML en FreeCodeCamp<br>
+> ✔ Me gustaría colaborar en: Open Source y proyectos interesantes<br>
+> ✔ Dato curioso: Cuando el código no funciona, lo miro fijamente hasta que sí 😤<br>
 
 
 <hr width="100%" >
