@@ -1,7 +1,7 @@
 <h1 align="center">Good afternoon, I am Bruno Llanes ✌️</h1>
 
 <p align="center">
-  <a href="[https://github.com/BrunoLlanes]"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+Dev;Minecraft:+Servers/Plugins+Dev;Discord:+Bot+Dev;Python+Dev"></a>
+  <a href="[https://github.com/BrunoLlanes]"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+Developer;Minecraft:+Servers/Plugins+Developer;Discord:+Bot+Developer;Python+Developer"></a>
 </p>
 
 
