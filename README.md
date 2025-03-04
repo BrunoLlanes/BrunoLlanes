@@ -33,7 +33,7 @@ $ contact --me
 <p align="center"><img src="https://profile-counter.glitch.me/%7BBrunoLlanes%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLlanes&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+<p align="center"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;"></p>
 
 <!--
 **BL06-404/BL06-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
