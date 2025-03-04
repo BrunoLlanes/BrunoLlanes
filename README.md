@@ -8,11 +8,11 @@
 
 
 <h3 align="center">🪪 A little about me...</h3> 
-> ✔ Pronombres: BL06-404, EltitoKincus, Tincus <br>
-> ✔ Estoy desarrollando: algo muy secreto 🤔<br>
-> ✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML por mi cuenta<br>
-> ✔ Me gusta colaborar en: Open Source y proyectos interesantes<br>
-> ✔ Dato curioso: Cuando el código no funciona, lo miro fijamente hasta que sí 😤<br>
+> ✔ Pronouns: BL06-404, EltitoKincus, Tincus <br>
+> ✔ I'm developing: something very secret 🤔<br>
+> ✔ I'm learning: Python, Java (Spigot/Bukkit) and HTML on my own<br>
+> ✔ I like to collaborate on: Open Source and interesting projects<br>
+> ✔ Fun fact: When code doesn't work, I stare at it until it does 😤<br>
 
 
 <hr width="100%" >
