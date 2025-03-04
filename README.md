@@ -8,10 +8,10 @@
 
 
 <h3 align="center">🪪 A little about me...</h3> 
-> ✔ Pronombres: Él/Suyo o "El que rompe cosas y luego las arregla" 😆<br>
-> ✔ Estoy desarrollando: Un descargador de YouTube con botón de información y plugins para Minecraft<br>
-> ✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML en FreeCodeCamp<br>
-> ✔ Me gustaría colaborar en: Open Source y proyectos interesantes<br>
+> ✔ Pronombres: BL06-404, EltitoKincus, Tincus <br>
+> ✔ Estoy desarrollando: algo muy secreto 🤔<br>
+> ✔ Estoy aprendiendo: Python, Java (Spigot/Bukkit) y HTML por mi cuenta<br>
+> ✔ Me gusta colaborar en: Open Source y proyectos interesantes<br>
 > ✔ Dato curioso: Cuando el código no funciona, lo miro fijamente hasta que sí 😤<br>
 
 
