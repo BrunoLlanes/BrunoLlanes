@@ -1,7 +1,7 @@
 <h1 align="center">Good afternoon, I am Bruno Llanes ✌️</h1>
 
 <p align="center">
-  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/BrunoLlanes)"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Bruno+Llanes;I+am+a+student;Web+Dev;Minecraft/Server/Plugins+Dev;Bot+Discord+Dev;I+love+games+%3C3"></a>
+  <a href="[https://github.com/CodeWhiteWeb/CodeWhiteWeb](https://github.com/BrunoLlanes)"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=I+am+Bruno+Llanes"></a>
 </p>
 
 
