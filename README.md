@@ -3,7 +3,6 @@
 <p align="center">
   <a href="[https://github.com/BrunoLlanes]"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Web+Developer;Minecraft:+Servers/Plugins+Developer;Discord:+Bot+Developer;Python+Developer"></a>
 </p>
-
 <hr width="100%" >
 
 <h3 align="left">⌨️ Languages</h3>
@@ -18,7 +17,7 @@
 
 <h3>📊 My GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BL06-404&show_icons=true&theme=dark&locale=en&layout=compact" alt="BL06-404" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrunoLlanes&show_icons=true&theme=dark&locale=en&layout=compact" alt="BL06-404" /></p>
 <br><br>
 
 <hr width="100%" >
@@ -28,6 +27,12 @@ $ contact --me
 🐦 Twitter: [Tu Usuario]  
 
 <hr width="100%" >
+
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7BBrunoLlanes%7D/count.svg" alt="visitor badge"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLlanes&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=BrunoLlanes&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=BrunoLlanes&theme=chartreuse-dark"></p>
 
 <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
 
