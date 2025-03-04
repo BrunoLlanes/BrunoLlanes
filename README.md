@@ -11,8 +11,8 @@
 <hr width="100%" >
 
 <h3>📊 My GitHub Stats</h3>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BL06-404&show_icons=true&theme=dark&locale=en&layout=compact" alt="BL06-404" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BL06-404&show_icons=true&theme=dark&locale=en&layout=compact" alt="BL06-404" /></p><br><br>
 
 <hr width="100%" >
 
